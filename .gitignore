@@ -112,6 +112,14 @@ ENV/
 env.bak/
 venv.bak/
 
+.env2
+.venv2
+env2/
+venv2/
+ENV2/
+env2.bak/
+venv2.bak/
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -136,3 +144,28 @@ data/
 Data/
 Data
 data
+
+# runs de yolo v8
+runs
+./runs
+./runs/*
+
+clone_tensor
+./clone_tensor
+
+Interfaz_etiqueta
+./Interfaz_etiqueta
+./Interfaz_etiqueta/*
+Interfaz_etiqueta/
+
+interfaz_etiqueta
+./interfaz_etiqueta
+./interfaz_etiqueta/*
+interfaz_etiqueta/
+
+
+#pascal pruebas
+
+Prueba_modelPAscal
+./Prueba_modelPAscal/
+./Prueba_modelPAscal/*
